@@ -1,0 +1,46 @@
+Part B: Basic Navigation Commands
+pwd	Print Working Directory – Shows the current directory (folder) you are in.
+ls	List Files and Directories – Displays the contents of the current directory.
+ls -la	List All Files in Long Format – Shows detailed information about files, including hidden files, permissions, owner, size, and modification date.
+cd	Change Directory – Used to move from one directory to another. Example: cd Documents
+clear	Clear Terminal Screen – Removes previous commands and output from the terminal display.
+history	Show Command History – Displays previously executed commands.
+whoami	Show Current User – Displays the username of the currently logged-in user.
+hostname	Show System Hostname – Displays the name of the computer/device on the network.
+
+Part D: File Management
+Command	Full Form	Purpose
+touch	Touch	Create a new empty file
+cp	Copy	Copy files or directories
+mv	Move	Move or rename files/directories
+rm	Remove	Delete files
+tree	Tree	Display folder and file structure
+
+Part F: Linux Research Activity
+1. What is Linux?
+
+Linux is an open-source operating system that manages computer hardware and software resources. It was created by Linus Torvalds in 1991. Linux is widely used on personal computers, servers, smartphones, and cloud systems because it is stable, secure, and free to use.
+
+2. Why is Linux Important in Cyber Security?
+
+Linux is important in cyber security because it provides powerful tools for network analysis, penetration testing, and system administration. Security professionals use Linux to monitor networks, detect vulnerabilities, and test system security. Its flexibility and strong security features make it a preferred platform for cyber security tasks.
+
+3. Difference Between Linux and Windows
+Linux	Windows
+Open-source and free	Proprietary and requires a license
+Highly customizable	Limited customization
+More commonly used for servers and security work	More commonly used for personal and business desktops
+Uses command-line tools extensively	Mainly uses a graphical interface
+Generally less targeted by malware	More frequently targeted by malware
+
+4. What is a Linux Distribution?
+
+A Linux distribution (or distro) is a complete operating system built on the Linux kernel along with software packages, tools, and a user interface. Different distributions are designed for different purposes. Examples include Ubuntu, Kali Linux, and Parrot OS.
+
+5. Why Do Ethical Hackers Prefer Linux-Based Operating Systems?
+
+Ethical hackers prefer Linux-based operating systems because they offer powerful security tools, better control over system settings, and excellent networking capabilities. Many penetration-testing tools are designed to run on Linux. Distributions such as Kali Linux come with hundreds of pre-installed security tools, making security testing easier and more efficient.
+
+Conclusion
+
+Linux plays a major role in cyber security due to its security, flexibility, and powerful command-line features. Its wide range of security tools and customization options make it the preferred operating system for ethical hackers and cyber security professionals.
